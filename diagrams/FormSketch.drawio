@@ -1,0 +1,37 @@
+<mxfile host="Electron" modified="2024-01-05T11:44:38.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="QWjnqlIXyuYxU7IrvpzY" version="22.0.3" type="device">
+  <diagram name="Page-1" id="S_8MSdk49SHLWG7hhBzr">
+    <mxGraphModel dx="358" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cyDH35_vk_vqJeq_XXR5-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="940" y="100" width="520" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="cyDH35_vk_vqJeq_XXR5-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="110" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cyDH35_vk_vqJeq_XXR5-7" value="Decision Matrix Data Inputs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="180" width="500" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="cyDH35_vk_vqJeq_XXR5-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="370" width="500" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cyDH35_vk_vqJeq_XXR5-9" value="RowButtons" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cyDH35_vk_vqJeq_XXR5-10" value="ColButtons" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cyDH35_vk_vqJeq_XXR5-11" value="FileUpload" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cyDH35_vk_vqJeq_XXR5-13" value="Submit Button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cyDH35_vk_vqJeq_XXR5-17" value="Result Container" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="420" width="480" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

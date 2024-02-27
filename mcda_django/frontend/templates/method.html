@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% load static %}
+{% block html-title %}
+  {{ method_name|upper }}
+{% endblock html-title %}
+{% block html-head %}
+  <script type="module"
+          src="{% static 'methods/'|add:method_name|add:'.js' %}"
+          defer></script>
+{% endblock html-head %}
+{% block content %}
+  {% include "navbar.html" %}
+  <div id="content" class="container-fluid d-flex mt-4"></div>
+{% endblock content %}
